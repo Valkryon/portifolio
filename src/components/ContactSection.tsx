@@ -9,7 +9,7 @@ const ContactSection = () => {
           Vamos Conversar?
         </h2>
         <p className="text-primary-foreground/70 mb-12 max-w-xl mx-auto">
-          Estou em busca de uma oportunidade de estágio em Desenvolvimento de Software.
+          Estou em busca de uma oportunidade em Desenvolvimento de Software.
           Será um prazer contribuir com sua equipe.
         </p>
 

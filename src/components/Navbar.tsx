@@ -31,11 +31,15 @@ const Navbar = () => {
       <div className="max-w-6xl mx-auto px-6 flex items-center justify-between">
         <a
           href="#"
-          className={`text-xl font-bold transition-colors ${
-            isScrolled ? "text-foreground" : "text-primary-foreground"
-          }`}
+          className="flex items-center transition-colors"
         >
-          JL
+          <img
+            src="/perfil.jpg"       // coloque sua imagem na pasta public
+            alt="João Lima Lampanche"
+            className={`w-8 h-8 rounded-full ${
+              isScrolled ? "border-2 border-foreground" : "border-2 border-primary-foreground"
+            }`}
+          />
         </a>
 
         {/* Desktop Menu */}
