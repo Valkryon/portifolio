@@ -9,12 +9,12 @@ const skills = [
   {
     category: "Desenvolvimento Web",
     icon: Monitor,
-    items: ["HTML5", "CSS3"],
+    items: ["HTML5", "CSS3", "REACT", "Vite"],
   },
   {
     category: "Banco de Dados",
     icon: Database,
-    items: ["SQL"],
+    items: ["Integração de aplicações com camada de dados (nível introdutório/intermediário)", "Conceitos de banco de dados relacionais", "Modelagem básica de dados"],
   },
   {
     category: "Ferramentas",
