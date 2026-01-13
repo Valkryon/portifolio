@@ -14,7 +14,6 @@ O site foi construído com foco em desempenho, organização de código e facili
 - **Tailwind CSS**
 - **shadcn/ui**
 
-Licença
+## 🏆 Licença
 
-Este projeto é de uso pessoal e profissional.
-O conteúdo e identidade visual não devem ser reutilizados sem autorização.
+The [MIT License](./LICENSE)
