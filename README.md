@@ -14,17 +14,6 @@ O site foi construído com foco em desempenho, organização de código e facili
 - **Tailwind CSS**
 - **shadcn/ui**
 
----
-
-## Objetivo do Projeto
-
-Este projeto tem como finalidade:
-
-- Centralizar informações profissionais
-- Exibir projetos e experiências técnicas
-- Servir como base escalável para evolução contínua do portfólio
-- Aplicar boas práticas de frontend moderno
-
 Licença
 
 Este projeto é de uso pessoal e profissional.
