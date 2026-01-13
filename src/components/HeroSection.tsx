@@ -25,15 +25,7 @@ const HeroSection = () => {
         {/* Descrição Profissional */}
         <div className="space-y-6 max-w-2xl mx-auto text-lg text-primary-foreground/70 leading-relaxed mb-10">
           <p>
-            Sou desenvolvedor de software com formação técnica e experiência prática em múltiplas áreas, incluindo <strong>desenvolvimento web</strong>, <strong>programação orientada a objetos</strong>, <strong>sistemas</strong>, <strong>desenvolvimento de jogos</strong> e <strong>automação</strong>. Possuo domínio de diferentes linguagens e capacidade de adaptação a diversos contextos tecnológicos.
-          </p>
-
-          <p>
-            Minha atuação em <strong>desenvolvimento web</strong> envolve tecnologias modernas do ecossistema <strong>JavaScript</strong>, boas práticas de <strong>componentização</strong>, <strong>responsividade</strong> e <strong>versionamento de código</strong>. Além disso, possuo experiência com <strong>Java</strong>, <strong>Python</strong>, <strong>C#</strong> e conhecimentos em <strong>Lua</strong> para scripting e desenvolvimento de jogos.
-          </p>
-
-          <p>
-            Tenho forte base lógica, facilidade para aprender novas tecnologias e foco em <strong>código limpo, organizado e sustentável</strong>. Busco oportunidades na área de desenvolvimento de software onde possa aplicar e expandir minhas competências, contribuir com soluções eficientes e evoluir profissionalmente em ambientes desafiadores.
+            Desenvolvedor de software com foco em Segurança da Informação. Atuo com desenvolvimento web, automação e programação orientada a objetos. Experiência prática em JavaScript, Java, Python e C#, aplicando boas práticas de código limpo, versionamento e segurança no desenvolvimento. Busco ambientes que priorizem qualidade técnica, segurança e eficiência.
           </p>
         </div>
 
