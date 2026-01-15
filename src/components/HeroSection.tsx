@@ -4,28 +4,33 @@ import { Button } from "@/components/ui/button";
 const HeroSection = () => {
   return (
     <section className="min-h-screen bg-hero flex items-center justify-center px-6 py-20">
-      <div className="max-w-4xl mx-auto text-center animate-fade-up">
+      <div className="max-w-4xl mx-auto text-center animate-fade-up motion-safe:animate-fade-up">
         {/* Avatar e Nome */}
         <div className="mb-8">
           <div className="w-28 h-28 mx-auto mb-6 rounded-full overflow-hidden border-2 border-primary">
             <img
               src="/perfil.jpg"
               alt="João Lima Lampanche"
+              loading="eager"
+              decoding="async"
               className="w-full h-full object-cover"
             />
+
           </div>
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-primary-foreground mb-4">
+          <h1 className="text-3xl md:text-4xl font-bold text-primary-foreground mb-4">
+
             João Lima Lampanche
           </h1>
-          <p className="text-xl md:text-2xl text-primary-foreground/80 font-light">
-            Desenvolvedor de Software em Formação
+          <p className="text-lg text-primary-foreground/80 font-normal">
+
+            Desenvolvedor de Software
           </p>
         </div>
 
         {/* Descrição Profissional */}
         <div className="space-y-6 max-w-2xl mx-auto text-lg text-primary-foreground/70 leading-relaxed mb-10">
           <p>
-            Desenvolvedor de software com foco em Segurança da Informação. Atuo com desenvolvimento web, automação e programação orientada a objetos. Experiência prática em JavaScript, Java, Python e C#, aplicando boas práticas de código limpo, versionamento e segurança no desenvolvimento. Busco ambientes que priorizem qualidade técnica, segurança e eficiência.
+            Desenvolvedor de software com atuação em Segurança da Informação e desenvolvimento de aplicações web. Possui experiência em automação e programação orientada a objetos, utilizando JavaScript, Java, Python e C#. Aplica práticas de código limpo, versionamento e princípios de segurança ao longo do ciclo de desenvolvimento. Busca oportunidades em ambientes que priorizem qualidade técnica, confiabilidade e eficiência.
           </p>
         </div>
 
