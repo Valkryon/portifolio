@@ -45,11 +45,11 @@ const HeroSection = () => {
             <span className="text-sm">joaolimalampanche@gmail.com</span>
           </a>
           <a 
-            href="tel:+5571986442662"
+            href="tel:+5571986817901"
             className="flex items-center gap-2 text-primary-foreground/80 hover:text-primary-foreground transition-colors"
           >
             <Phone className="w-5 h-5" />
-            <span className="text-sm">(71) 98644-2662</span>
+            <span className="text-sm">(71) 98681-7901</span>
           </a>
           <span className="flex items-center gap-2 text-primary-foreground/80">
             <MapPin className="w-5 h-5" />
